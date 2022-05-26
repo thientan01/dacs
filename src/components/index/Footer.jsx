@@ -13,7 +13,7 @@ function Footer(props) {
           <div className="col l-3" />
           <div className="col l-3 Footer-Hotline">
             <div className="positon-Hotline">Hotline</div>
-            <div> 1900.63.3579</div>
+            <div> 082.322.6236</div>
           </div>
           <div className="col l-3 Footer-icon">
             <div className="row Footer-icon-end">
@@ -57,8 +57,8 @@ function Footer(props) {
           </div>
           <div className="col l-2">
             <h3 className="div">Hệ thống cửa hàng</h3>
-            <h3 className="Footer-text-div-B">Hà Nội:</h3>
-            <h3 className="Footer-text-div-B">53 Thái Hà, Đống Đa, Hà Nội</h3>
+            <h3 className="Footer-text-div-B">Cần Thơ:</h3>
+            <h3 className="Footer-text-div-B">168, d.Nguyễn Văn Cừ, An Bình, Ninh Kiều</h3>
             <div className="Footer-chiduong">Chỉ đường</div>
           </div>
           <div className="col l-2">

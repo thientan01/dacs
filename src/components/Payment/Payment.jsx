@@ -73,8 +73,8 @@ useEffect(()=>{
                       <div className="col l-6 m-12 c-12 position_payment_container"><div className="position_pay"> <input type="radio" name="positon" /> Số 5 - 7 Nguyễn Huy Tưởng, Phường 6, Quận Bình Thạnh, Hồ Chí Minh</div> </div>
                       <div className="col l-6 m-12 c-12 position_payment_container"><div className="position_pay"> <input type="radio" name="positon" /> 95 Trần Thiện Chánh, F12, Q10, HCM</div> </div>
                       
-                      <div className="col l-12 m-12 c-12 position_payment_container_title">Hà Nội</div>
-                      <div className="col l-6 m-12 c-12 position_payment_container"><div className="position_pay"> <input type="radio" name="positon" /> 53 Thái Hà, Trung Liệt, Đống Đa, Hà Nội</div> </div>
+                      <div className="col l-12 m-12 c-12 position_payment_container_title">Cần Thơ</div>
+                      <div className="col l-6 m-12 c-12 position_payment_container"><div className="position_pay"> <input type="radio" name="positon" /> 168, d.Nguyễn Văn Cừ, An Bình, Ninh Kiều</div> </div>
                     </div> :
 
                     <div className="row no-gutters"> 
