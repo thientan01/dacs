@@ -76,7 +76,7 @@ function Footer(props) {
         <div className="row Footer-text">
           <div className="col l-12 Footer-text-div-end">Copyright (C) 2020</div>
           <div className="col l-12 Footer-text-div-end">
-            Công ty TNHH Công nghệ Think Việt Nam | Số ĐKKD 0107273909 do Sở
+            Công ty TNHH Công nghệ Think Việt Nam | Số ĐKKD 0107273*** do Sở
             KHĐT Thành phố Hà Nội cấp ngày 30/12/2015. Email liên hệ:
             hi@thinkgroup.vn
           </div>
